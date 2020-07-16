@@ -2,3 +2,6 @@
 *.png
 *.pptx
 *.ipynb_checkpoints
+*.svg
+*.psd
+*.eps
