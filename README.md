@@ -1,9 +1,5 @@
 # Programming-Tutorials
-Repository contains accompany codes to tutorials written on [https://medium.com/@chaitanyabaweja1]
+Repository contains accompany codes to tutorials written on [Medium-Chaitanya_Baweja](https://medium.com/@chaitanyabaweja1)
 
-To-do List
-- [] Add Folders for all Programming Tutorials
-- [] Improve Readme File
-- [] Design Jupyter Notebooks for all tutorials
-- [] Add Additional Reading Material
-
+Most of the tutorials have accompanying **Jupyter notebooks**.
+Information regarding required libraries is also provided here as well as in the corresponding tutorial.
