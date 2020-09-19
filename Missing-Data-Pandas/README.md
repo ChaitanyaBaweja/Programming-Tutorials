@@ -1,5 +1,4 @@
-# Programming-Tutorials
-Repository contains accompany codes to tutorials written on [Medium-Chaitanya_Baweja](https://medium.com/@chaitanyabaweja1)
+# Missing Data in Pandas
+This folder contains code accompanying the tutorial: [How to Deal with Missing Data in Python](https://towardsdatascience.com/how-to-deal-with-missing-data-in-python-1f74a9112d93).
 
-Most of the tutorials have accompanying **Jupyter notebooks**.
-Information regarding required libraries is also provided here as well as in the corresponding tutorial.
+We discuss various ways of handling/imputing missing values using [Pandas](https://pandas.pydata.org/) and [Numpy](https://numpy.org/). You can find many examples in the Jupyter notebook in this folder.

@@ -1,5 +1,4 @@
-# Programming-Tutorials
-Repository contains accompany codes to tutorials written on [Medium-Chaitanya_Baweja](https://medium.com/@chaitanyabaweja1)
+# Venn Diagrams in Python
+This folder contains code accompanying the tutorial: [How to Design Professional Venn Diagrams in Python](https://towardsdatascience.com/how-to-design-professional-venn-diagrams-in-python-693c9ed2c288).
 
-Most of the tutorials have accompanying **Jupyter notebooks**.
-Information regarding required libraries is also provided here as well as in the corresponding tutorial.
+We discuss [matplotlib-venn](https://github.com/konstantint/matplotlib-venn) library in detail in this tutorial. A Jupyter notebook here provides examples on how to create your own professional **Venn Diagrams**.
